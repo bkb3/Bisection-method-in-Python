@@ -11,7 +11,20 @@ Python 2.7.13
 ```
 
 Here's the code running. The value obtained after 16 iterations can be verified with the book or other sources as well. Also note that we obtained exactly the same value using C as well.
-![N](https://imgoat.com/uploads/c8349cc726/44897.png)
+![N](https://imgoat.com/uploads/c8349cc726/44898.png)
+
+
+# USAGE
+If your maximum iterations is say 20 then you can use,
+
+
+`python bisection.py 20`
+
+
+Alternatively you can also `chmod +x bisection.py` and then  
+
+
+`./bisection.py 20`
 
 # LICENSE
 ![GNU_GPL_v3.0](https://www.gnu.org/graphics/gplv3-127x51.png)
